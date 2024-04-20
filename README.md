@@ -1,4 +1,4 @@
-# MAD Practical 2 - Activity (Ggwendolynn)
+# MAD Practical 2 - Activity
 You will be creating your first Android app! Your app will have a profile page on its main Activity.<br/>
 Follow the instructions below to complete your app.
 
